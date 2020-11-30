@@ -8,8 +8,13 @@ public class HelloGit {
 		System.out.println("创建分支");
 		System.out.println("主干添加");
 		System.out.println("分支添加");
+<<<<<<< HEAD
 		System.out.println("第二次提交之前更新");
 		System.out.println("第三次提交之前更新");
+=======
+		System.out.println("在线添加");
+		System.out.println("在线添加2");
+>>>>>>> branch 'master' of https://github.com/WangXuefeng12/testGit.git
 	}
 
 }
